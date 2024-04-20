@@ -27,3 +27,9 @@
 <a href="https://vk.com/di.gavr">
    <p> Диана </p>
   </a>
+<a href="https://vk.com/di.grebbb">
+   <p> Даша </p>
+  </a>
+<a href="https://vk.com/abvg0">
+   <p> Настя </p>
+  </a>
